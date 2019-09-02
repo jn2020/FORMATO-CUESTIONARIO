@@ -1,6 +1,4 @@
-# FORMATO-CUESTIONARIO
-# COMMIT #3 ENCUESTA
-#         FORMATO CUESTIONARIO
+# FORMATO CUESTIONARIO
 Se realizo  el formato de cuestionario  para la recolección de información. 
 
 ![enter image description here](https://lh3.googleusercontent.com/KqkuN_RWE5cFmb5PTc6FHdh861bynQyqCRvtbtJyo-u1I6-9tskOUXK-3H_oSD9C1a4LvoTeKH6b "1")
